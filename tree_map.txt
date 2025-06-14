@@ -1,0 +1,53 @@
+Folder PATH listing
+Volume serial number is E8D3-83B6
+C:\USERS\YENKH\DESKTOP\CROSSCOMPJXAI
+|   config.py
+|   quantum_mission_x.py
+|   README.md
+|   reconbot_skynet.py
+|   requirements.txt
+|   tree_map.txt
+|   
++---agents
+|   +---linux
+|   |       linux_agent.py
+|   |       
+|   +---mobile
+|   |       android_agent.py
+|   |       ios_agent.py
+|   |       
+|   \---windows
+|           win_agent.py
+|           
++---core
+|   +---ai
+|   |       ai_task_suggest.py
+|   |       intel_linker.py
+|   |       
+|   +---lateral
+|   |       kerberos_probe.py
+|   |       pass_the_hash.py
+|   |       
+|   +---opsec
+|   |       anomaly_watchdog.py
+|   |       stealth_ops.py
+|   |       
+|   \---recon
+|           dns_profiler.py
+|           recon_ai.py
+|           
++---docs
+|       README.md
+|       
+\---operator
+    +---comms
+    |       comlink_ai.py
+    |       
+    +---dashboard
+    |       main_dashboard.py
+    |       
+    \---tools
+            mode_switch.py
+            note_console.py
+            voice_router.py
+            
